@@ -88,7 +88,7 @@ Part 2: [YouTube](https://youtu.be/q6MQnsVRUl8) (explanation found here)
 
 
 For TDD:
-[YouTube](TDD: https://youtu.be/w1z32YJYHt8) 
+[YouTube](https://youtu.be/w1z32YJYHt8) 
 
 ***
 
