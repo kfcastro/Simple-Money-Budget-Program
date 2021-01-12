@@ -58,17 +58,17 @@ public class Budget {
 								 
 				//Open and Write in text file "BudgetData.txt"
 				FileWriter writeInFile = new FileWriter("BudgetData.txt", true);
-			    BufferedWriter buffWrite = new BufferedWriter(writeInFile);
-			    buffWrite.write(date + " " + time + " Income ");
-			    buffWrite.newLine();
-			    buffWrite.write(String.valueOf(amount));
-			    buffWrite.newLine();
-			    buffWrite.close();
+			   	BufferedWriter buffWrite = new BufferedWriter(writeInFile);
+			    	buffWrite.write(date + " " + time + " Income ");
+			    	buffWrite.newLine();
+			    	buffWrite.write(String.valueOf(amount));
+			    	buffWrite.newLine();
+			    	buffWrite.close();
 			    			      
 			} catch (IOException e) { //throw error
 			    	
-			      System.out.println("[@income] An error occurred.\n");
-			      e.printStackTrace();
+			      	System.out.println("[@income] An error occurred.\n");
+			      	e.printStackTrace();
 			      
 			}
 						 
@@ -82,18 +82,18 @@ public class Budget {
 				budgetList.add(date + " " + time + " Expense " + expenseType + " " + String.valueOf(amount)); 
 				
 				//Open and Write in text file "BudgetData.txt"
-			    FileWriter writeInFile = new FileWriter("BudgetData.txt", true);
-			    BufferedWriter buffWrite = new BufferedWriter(writeInFile);
-			    buffWrite.write(date + " " + time + " Expense " + expenseType);
-			    buffWrite.newLine();
-			    buffWrite.write(String.valueOf(amount));
-			    buffWrite.newLine();
-			    buffWrite.close();
+			    	FileWriter writeInFile = new FileWriter("BudgetData.txt", true);
+			    	BufferedWriter buffWrite = new BufferedWriter(writeInFile);
+			    	buffWrite.write(date + " " + time + " Expense " + expenseType);
+			    	buffWrite.newLine();
+			    	buffWrite.write(String.valueOf(amount));
+			    	buffWrite.newLine();
+			    	buffWrite.close();
 			     
 			} catch (IOException e) {
 			    	
-			      System.out.println("[@expense] An error occurred.\n");
-			      e.printStackTrace();
+			      	System.out.println("[@expense] An error occurred.\n");
+			      	e.printStackTrace();
 			      
 			}
 			
@@ -113,7 +113,7 @@ public class Budget {
 		}
 		
 		System.out.println("\n----------------------------------\n");
-		System.out.println("\t UPDATED BALANCE\n");
+		System.out.println("\tUPDATED BALANCE\n");
 		System.out.println("\nDate :  " + date + " " + time + "\n");
 		System.out.println("----------------------------------\n");
 		
@@ -149,7 +149,7 @@ public class Budget {
 			 
 		} catch (IOException e) {
 			
-		    	System.out.println("An error occurred.\n");
+			System.out.println("An error occurred.\n");
 		    	e.printStackTrace();
 		    	
 		}
@@ -158,7 +158,7 @@ public class Budget {
 		
 		//-----------Main Menu---------------
 		
-		System.out.print("\t Daily Money Budget\n\n");
+		System.out.print("\tDaily Money Budget\n\n");
 		System.out.print("\tExpense Category");
 		System.out.print("\n----------------------------------\n\n"
 				+ "Food | Transportation | Clothes | Education\n"
