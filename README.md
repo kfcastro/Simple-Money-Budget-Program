@@ -81,10 +81,14 @@ Note: Please change the file directory in line 137.
 4.2 Youtube Demo Video
 
 For Code:
-[YouTube](https://youtu.be/Z37b3X45A4c)
+
+Part 1: [YouTube](https://youtu.be/x11TEx56ZPE)
+
+Part 2: [YouTube](https://youtu.be/q6MQnsVRUl8) (explanation found here)
+
 
 For TDD:
-[YouTube](https://www.youtube.com/watch?v=w1z32YJYHt8) 
+[YouTube](TDD: https://youtu.be/w1z32YJYHt8) 
 
 ***
 
