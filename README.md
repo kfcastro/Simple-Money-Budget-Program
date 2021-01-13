@@ -3,7 +3,7 @@
 ### _1st Semester AY 2020-2021_
 
 
-## **Daily Money Budget Program**
+## **Daily Money Expense Tracker Program**
 
 ### A CASE STUDY
 
@@ -14,7 +14,7 @@
 
 															My Hobby/Interest: 
 	
-	Ever since I studied basic accountancy, I have been tracking my budget and be practical on what I spend my money on. Especially as a student, you have limited allowance and you need to budget your money to get through the day/week. It helps me to value things more, at the same time learning about being independent.
+	Ever since I studied basic accountancy, I have been tracking my budget and expense, and be practical on what I spend my money on. Especially as a student, you have limited allowance and you need to budget your money to get through the day/week. It helps me to value things more, at the same time learning about being independent.
 
 
 ***
