@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.*;
 
 /**
-* The Daily Money Budget program is a hard code program that
+* The Daily Money Expense Tracker Program is a hard code program that
 * simply solve for your Total Budget Left,
 * given the income and expense amount. 
 *
